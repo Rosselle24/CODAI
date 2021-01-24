@@ -124,16 +124,23 @@ body {
         vertical-align: middle;
         margin-top: 2em;
     }
+
+    #footer-elementos {
+        display: flex !important;
+        justify-content: center !important;
+        }
+
+        .rodape {
+            text-align: center !important;
+            margin-bottom: 10px;
+        }
 }
 
-#footer-elementos {
-    display: flex !important;
-    justify-content: center !important;
+#texto-1 {
 }
 
-#texto-1{
-}
-
-#texto-2{
+#texto-2 {
     display: none;
 }
+
+
