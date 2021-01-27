@@ -1,4 +1,4 @@
-var nome = "Rosselle Ramos";
+var nome = "Selly Ramos";
 var cargo = "Desenvolvedora";
 var nomeHtml = document.getElementById("nome-no-html");
 var cargoHtml = document.getElementById("cargo-no-html");
