@@ -30,13 +30,17 @@ body {
 }
 
 .card-perfil {
-    background-color: #19DEF0; !important;
+    background-color: #19DEF0 !important;
     box-shadow: 0px 0px 5px #f5f5f5;
 }
 
 .botoes-card {
     display: flex;
     justify-content: center;
+}
+
+.botoes-element {
+    display: flex;
 }
 
 #btn-sobre {
@@ -134,13 +138,16 @@ body {
             text-align: center !important;
             margin-bottom: 10px;
         }
+
+        #texto-1{
+        }
+    
+        
+        #texto-2 {
+            display: none;
+        }
+        
 }
 
-#texto-1 {
-}
-
-#texto-2 {
-    display: none;
-}
 
 
